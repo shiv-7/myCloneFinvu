@@ -1,0 +1,16 @@
+.banner-text{
+    grid-column-start: 2;
+    grid-column-end: 4;
+    /* display: grid; */
+}   
+.text-bottom{
+    margin-bottom: 1rem;
+}
+.bg-grey{
+    background-color:  rgb(231, 243, 254);
+}
+
+.pd-5{
+    padding-top: 1rem;
+    margin-top: 2rem;
+}
