@@ -16,11 +16,11 @@ const TopArticleHome = ({sectionData}) => {
     {sectionData.map((curElem,i)=>{
       const {id,sectionLoc,title,description,info,showMiddleSection} = curElem;
       return  (
-        <>
-
-        <div className="first" id={id} key = {1 }>
-          <div className="text" key={2}>
-            <h3 className="display-1" key={3} >{title}</h3>
+        
+        <div key = {i}>
+        <div className="first" key={id}  >
+          <div className="text" >
+            <h3 className="display-1"  >{title}</h3>
             <p className="text-center text-left text-margin" key={4} >{description}</p>
             <p className="text-left text-margin text-body " key={5}>{info}
             </p>
@@ -31,7 +31,8 @@ const TopArticleHome = ({sectionData}) => {
           
         </div>
         <MiddleArticleHome isDisplayed = {showMiddleSection} key = {8} />
-        </>
+        </div>
+        
       )
 
     })

@@ -12,7 +12,7 @@ const Navbar = () => {
   return (
     <>
         <nav className="main-nav">
-                <NavLink to="/" className='logo'>
+                <NavLink to="/myCloneFinvu" className='logo'>
                 <img src={logo} alt="finvu logo" /></NavLink>
             
             <div className={showMenu?"mobile-menu-link": "menu-link"}>
@@ -47,9 +47,7 @@ const Navbar = () => {
             </div>
 
         </nav>
-        <body>
-        <div></div> 
-        </body>
+        
     </>
   )
 }
