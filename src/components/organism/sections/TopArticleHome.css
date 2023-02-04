@@ -101,3 +101,11 @@ h3{
 .no-display{
     display: none!important;
 }
+
+.cl-blue{
+    color: #335eea!important;
+}
+
+.text-muted {
+    color: #869ab8!important;
+}
