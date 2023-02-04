@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myCloneFinvu/static/css/main.5d7b655a.css",
-    "main.js": "/myCloneFinvu/static/js/main.9b1fc523.js",
+    "main.css": "/myCloneFinvu/static/css/main.5e5556fd.css",
+    "main.js": "/myCloneFinvu/static/js/main.6198f1e4.js",
     "static/media/splash_screen_graphic.58091192.svg": "/myCloneFinvu/static/media/splash_screen_graphic.58091192.552db16b2111bea0c0e91ae24f552c6c.svg",
     "static/media/axis_bank_logo.png": "/myCloneFinvu/static/media/axis_bank_logo.be0f643c2b624c1206e2.png",
     "static/media/brand.png": "/myCloneFinvu/static/media/brand.231c3b634835c642df41.png",
@@ -11,11 +11,11 @@
     "static/media/splash.svg": "/myCloneFinvu/static/media/splash.cbe2963b16756a73e6e24bfa7d6f27da.svg",
     "static/media/building_block.svg": "/myCloneFinvu/static/media/building_block.7d54639a1bd2ab6158be9eeeae64f68b.svg",
     "index.html": "/myCloneFinvu/index.html",
-    "main.5d7b655a.css.map": "/myCloneFinvu/static/css/main.5d7b655a.css.map",
-    "main.9b1fc523.js.map": "/myCloneFinvu/static/js/main.9b1fc523.js.map"
+    "main.5e5556fd.css.map": "/myCloneFinvu/static/css/main.5e5556fd.css.map",
+    "main.6198f1e4.js.map": "/myCloneFinvu/static/js/main.6198f1e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d7b655a.css",
-    "static/js/main.9b1fc523.js"
+    "static/css/main.5e5556fd.css",
+    "static/js/main.6198f1e4.js"
   ]
 }
