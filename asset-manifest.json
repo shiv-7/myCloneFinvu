@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/myCloneFinvu/static/css/main.5d7b655a.css",
-    "main.js": "/myCloneFinvu/static/js/main.76ec0e35.js",
-    "static/media/splash_screen_graphic.58091192.svg": "/myCloneFinvu/static/media/splash_screen_graphic.58091192.552db16b2111bea0c0e91ae24f552c6c.svg",
-    "static/media/axis_bank_logo.png": "/myCloneFinvu/static/media/axis_bank_logo.be0f643c2b624c1206e2.png",
-    "static/media/brand.png": "/myCloneFinvu/static/media/brand.231c3b634835c642df41.png",
-    "static/media/federal_bank_logo.png": "/myCloneFinvu/static/media/federal_bank_logo.bbd629b2ff1e4409ce80.png",
-    "static/media/kairoscapital_logo.png": "/myCloneFinvu/static/media/kairoscapital_logo.a9d75cd1ed3162f2b1c3.png",
-    "static/media/google_play_badge.png": "/myCloneFinvu/static/media/google_play_badge.f902960a94878ee0da67.png",
-    "static/media/splash.svg": "/myCloneFinvu/static/media/splash.cbe2963b16756a73e6e24bfa7d6f27da.svg",
-    "static/media/building_block.svg": "/myCloneFinvu/static/media/building_block.7d54639a1bd2ab6158be9eeeae64f68b.svg",
-    "index.html": "/myCloneFinvu/index.html",
-    "main.5d7b655a.css.map": "/myCloneFinvu/static/css/main.5d7b655a.css.map",
-    "main.76ec0e35.js.map": "/myCloneFinvu/static/js/main.76ec0e35.js.map"
+    "main.css": "/static/css/main.5d7b655a.css",
+    "main.js": "/static/js/main.db80657f.js",
+    "static/media/splash_screen_graphic.58091192.svg": "/static/media/splash_screen_graphic.58091192.552db16b2111bea0c0e91ae24f552c6c.svg",
+    "static/media/axis_bank_logo.png": "/static/media/axis_bank_logo.be0f643c2b624c1206e2.png",
+    "static/media/brand.png": "/static/media/brand.231c3b634835c642df41.png",
+    "static/media/federal_bank_logo.png": "/static/media/federal_bank_logo.bbd629b2ff1e4409ce80.png",
+    "static/media/kairoscapital_logo.png": "/static/media/kairoscapital_logo.a9d75cd1ed3162f2b1c3.png",
+    "static/media/google_play_badge.png": "/static/media/google_play_badge.f902960a94878ee0da67.png",
+    "static/media/splash.svg": "/static/media/splash.cbe2963b16756a73e6e24bfa7d6f27da.svg",
+    "static/media/building_block.svg": "/static/media/building_block.7d54639a1bd2ab6158be9eeeae64f68b.svg",
+    "index.html": "/index.html",
+    "main.5d7b655a.css.map": "/static/css/main.5d7b655a.css.map",
+    "main.db80657f.js.map": "/static/js/main.db80657f.js.map"
   },
   "entrypoints": [
     "static/css/main.5d7b655a.css",
-    "static/js/main.76ec0e35.js"
+    "static/js/main.db80657f.js"
   ]
 }
