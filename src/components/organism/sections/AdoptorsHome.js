@@ -17,7 +17,6 @@ const AdoptorsHome = () => {
                     <img src={federal_bank_logo} alt="..." className='logo-banks lg-width-1 mr-1 ml-1 md-0'/>
                     <img src={hdfc_bank_logo} alt="..." className='logo-banks lg-width-2 mr-1 ml-1 md-0'/>
                 </p>
-                
                 <h3 className="display-title-2">SEBI Regulated RIAs</h3>
                 <p>
                 <img src={kairoscapital_logo} alt="..." className='logo-banks lg-width-1 mr-1'/>
