@@ -3,7 +3,7 @@ import './BannerHome.css'
 const BannerHome = () => {
   return (
     <>
-        <div className="first bg-grey pd-5">
+        <div className="display-main bg-grey pd-5">
             <div className="banner-text">
                 <h3 className='display-1'>Build products using our API</h3>
                 <p className="text-center text-left text-margin text-bottom">

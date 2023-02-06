@@ -7,8 +7,6 @@ import { NavLink } from 'react-router-dom';
 
 const Navbar = () => {
   const [showMenu, setShowMenu] = useState(false)
-  // console.log(showMediaIcon);
-  //const v =1;
   return (
     <>
         <nav className="main-nav">
@@ -30,11 +28,9 @@ const Navbar = () => {
                         
                         <NavLink to="#">How It Works</NavLink>
                         <button className="bg-blue raise" type='button' >For Developers</button>
-                        {/* <a href="#">For Developers</a> */}
                         <button className="bg-lt-blue raise">
                         Become A Partner
                         </button>
-                        {/* <a href="#">Become A Partner</a> */}
                     </ul>
 
                   

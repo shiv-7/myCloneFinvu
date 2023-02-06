@@ -1,12 +1,12 @@
 import React from 'react'
-import './MiddleArticleHome.css'
+import './ConsentArticleHome.css'
 import splash from '../../../assets/svgs/splash.svg'
 import google_play_badge from'../../../assets/images/google_play_badge.png'
-const MiddleArticleHome = ({isDisplayed}) => {
+const ConsentArticleHome = ({isDisplayed}) => {
   return (
     <>
 
-        <div className={isDisplayed?"first1 ":"no-display first1 "}>
+        <div className={isDisplayed?"display-main ":"no-display display-main "}>
             <div className="col-1-img">
                 <img src={splash} alt="..." />
             </div>
@@ -52,4 +52,4 @@ const MiddleArticleHome = ({isDisplayed}) => {
   )
 }
 
-export default MiddleArticleHome
+export default ConsentArticleHome

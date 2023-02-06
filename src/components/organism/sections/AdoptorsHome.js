@@ -8,7 +8,7 @@ import paisa_logo from '../../../assets/images/paisa.png'
 const AdoptorsHome = () => {
   return (
     <>
-        <div className="first">
+        <div className="display-main">
             <div className="banner-text">
                 <h2>Our Early adopters</h2>
                 <h3 className="mb5">Banks and NBFCs</h3>

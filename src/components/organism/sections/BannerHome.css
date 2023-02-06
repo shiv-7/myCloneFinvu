@@ -1,7 +1,6 @@
 .banner-text{
     grid-column-start: 2;
     grid-column-end: 4;
-    /* display: grid; */
 }   
 .text-bottom{
     margin-bottom: 1rem;

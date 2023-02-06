@@ -1,4 +1,4 @@
-const topBottomBodyData = [
+const consentServicesBodyData = [
     {
         id : 1,
         sectionLoc: "top",
@@ -23,4 +23,4 @@ const topBottomBodyData = [
     }
 ] ;
 
-export default topBottomBodyData;
+export default consentServicesBodyData;
