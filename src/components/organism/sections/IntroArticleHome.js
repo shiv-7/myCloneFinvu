@@ -14,17 +14,16 @@ const IntroArticleHome = ({sectionData}) => {
     <>
     {sectionData.map((curElem,i)=>{
       const {id,sectionLoc,title,description,info,showConsentSection,href,linkText} = curElem;
-      console.log(curElem)
       return  (
         
         <div key = {i}>
         <div className="display-main"  >
-          <div className="text" >
-            <h3 className="display-1"  >{title}</h3>
-            <p className="text-center text-left text-margin text-muted"  >{description}</p>
+          <div className="article-text-1" >
+            <h3 className="display-title-1">{title}</h3>
+            <p className="text-left mb-3 text-muted"  >{description}</p>
 
-            <p className= {id===1? "text-left text-margin text-body ":"text-left text-margin text-body text-muted"}  >{info}
-            <NavLink to={href} className= {id ===1?'no-display':'cl-blue'}>{linkText}</NavLink>
+            <p className= {id===1? "text-left mb-3 text-body-color":"text-left mb-3 text-body-color text-muted"}  >{info}
+            <NavLink to={href} className= {id ===1?'no-display':'color-blue'}>{linkText}</NavLink>
             </p>
 
 

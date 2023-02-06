@@ -1,6 +1,6 @@
 import React from 'react'
 import './ConsentArticleHome.css'
-import splash from '../../../assets/svgs/splash.svg'
+import consent_screen from '../../../assets/svgs/consent_screen.svg'
 import google_play_badge from'../../../assets/images/google_play_badge.png'
 const ConsentArticleHome = ({isDisplayed}) => {
   return (
@@ -8,11 +8,11 @@ const ConsentArticleHome = ({isDisplayed}) => {
 
         <div className={isDisplayed?"display-main ":"no-display display-main "}>
             <div className="col-1-img">
-                <img src={splash} alt="..." />
+                <img src={consent_screen} alt="..." />
             </div>
-            <div className="text2">
-            <h3 className="display-1">Consent Based data sharing using our Trusted Platform.</h3>
-            <p className="text-center text-left text-margin">
+            <div className="article-text">
+            <h3 className="display-title-1">Consent Based data sharing using our Trusted Platform.</h3>
+            <p className="text-left mb-3">
             Finvu AA provides the platform to facilitate sharing of information between your financial institution and the financial information users who are provinding you financial services.
             </p>
             <div className="points">

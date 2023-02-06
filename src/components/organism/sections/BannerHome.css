@@ -2,8 +2,8 @@
     grid-column-start: 2;
     grid-column-end: 4;
 }   
-.text-bottom{
-    margin-bottom: 1rem;
+.mb-1{
+    margin-bottom: 1rem!important;
 }
 .bg-grey{
     background-color:  rgb(231, 243, 254);
