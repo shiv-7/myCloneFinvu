@@ -14,6 +14,7 @@ const IntroArticleHome = ({sectionData}) => {
     <>
     {sectionData.map((curElem,i)=>{
       const {id,sectionLoc,title,description,info,showConsentSection,href,linkText} = curElem;
+      console.log(curElem)
       return  (
         
         <div key = {i}>
