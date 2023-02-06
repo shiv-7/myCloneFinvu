@@ -24,7 +24,6 @@ const IntroArticleHome = ({sectionData}) => {
             <NavLink to={href} className= {id ===1?'no-display':'color-blue'}>{linkText}</NavLink>
             </p>
           </div>
-
           <div className="col-3-img"  >   
                 <img src={imgLocObj[sectionLoc]} alt="..." />
           </div>

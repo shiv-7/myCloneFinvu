@@ -14,6 +14,7 @@ const ConsentArticleHome = ({isDisplayed}) => {
             <p className="text-left mb-3">
             Finvu AA provides the platform to facilitate sharing of information between your financial institution and the financial information users who are provinding you financial services.
             </p>
+
             <div className="points">
               <div className="pt-5-1">
               <span> <i className="bi bi-check-circle-fill"></i> </span>
@@ -29,6 +30,7 @@ const ConsentArticleHome = ({isDisplayed}) => {
               <p className="text-left-bullet"> Manage your consents on the Finvu app and more.</p></div>
               <div className="pt-5-1">
               <p className="text-left-bullet"> Download the Finvu App from Playstore. iOS coming soon...</p></div>
+              
               <div className="pt-5-1">  
                     <a href="https://play.google.com/store/apps/details?id=com.finvu" className="logo">
                     <img src={google_play_badge} alt="..." className='img-body'/>
