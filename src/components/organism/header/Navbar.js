@@ -33,15 +33,10 @@ const Navbar = () => {
                         </button>
                     </ul>
 
-                  
             </div>
             <div className="hamburger-menu" onClick = {()=>setShowMenu(!showMenu)}>
               <Hamburger />
-                   
-                   
-
             </div>
-
         </nav>
         
     </>
